@@ -13,6 +13,8 @@
   "repository": "https://github.com/BigBalli/tessera-mcp",
   "privacyPolicyUrl": "https://bigballi.com/Tessera/privacy/",
   "supportUrl": "https://bigballi.com/Tessera/connect/",
+  "documentationUrl": "https://bigballi.com/Tessera/connect/",
+  "termsOfServiceUrl": "https://bigballi.com/Tessera/terms/",
   "license": "MIT",
   "keywords": [
     "human-design",
