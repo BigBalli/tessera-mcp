@@ -42,7 +42,7 @@ Install the plugin, which adds the server and the `human-design` skill:
 
 ```
 /plugin marketplace add BigBalli/tessera-mcp
-/plugin install tessera@tessera
+/plugin install tessera-human-design@tessera-human-design
 ```
 
 Or add only the server:
