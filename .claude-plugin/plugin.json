@@ -1,0 +1,17 @@
+{
+  "name": "tessera",
+  "displayName": "Tessera Human Design",
+  "version": "1.0.0",
+  "description": "Human Design charts in Claude, calculated from birth data: Type, Strategy, Authority, Profile, Definition, centres, channels and gates, today's transits, the channels two people form together, and plain explanations in English, Dutch and German, through the Tessera MCP server, plus a skill that knows how to read a chart.",
+  "author": {
+    "name": "BigBalli",
+    "email": "g@bigballi.com",
+    "url": "https://bigballi.com"
+  },
+  "homepage": "https://bigballi.com/Tessera/connect/",
+  "repository": "https://github.com/BigBalli/tessera-mcp",
+  "privacyPolicyUrl": "https://bigballi.com/Tessera/privacy/",
+  "supportUrl": "https://bigballi.com/Tessera/connect/",
+  "license": "MIT",
+  "keywords": ["human-design", "bodygraph", "astrology", "self-reflection", "transits", "relationships", "dutch", "german"]
+}

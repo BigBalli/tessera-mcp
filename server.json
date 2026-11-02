@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.bigballi/tessera",
+  "title": "Tessera Human Design",
+  "description": "Human Design charts, transits and connections from birth data, explained in EN, NL and DE.",
+  "version": "1.0.0",
+  "websiteUrl": "https://bigballi.com/Tessera/connect/",
+  "repository": {
+    "url": "https://github.com/BigBalli/tessera-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://bigballi.com/Tessera/images/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://bigballi.com/Tessera/mcp"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "tessera",
+  "description": "The Tessera plugin: Human Design charts calculated from birth data in Claude.",
+  "owner": {
+    "name": "BigBalli",
+    "email": "g@bigballi.com"
+  },
+  "plugins": [
+    {
+      "name": "tessera",
+      "source": "./",
+      "description": "Human Design charts, transits, connections between two people and explanations of every element, calculated by the Tessera MCP server."
+    }
+  ]
+}
